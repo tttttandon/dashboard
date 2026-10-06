@@ -6,7 +6,7 @@ A weather dashboard built from scratch in HTML, CSS, and JavaScript for
 WRIT 40363. It loads weather data from a JSON file with fetch() and has a
 dark-mode toggle that remembers the reader's choice.
 
-**Live site:** https://username.github.io/dashboard
+**Live site:** https://tttttandon.github.io/dashboard
 
 ## Built with
 
